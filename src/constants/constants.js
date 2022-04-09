@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Got accepted into New Jersey Institute of Technology', },
+  { year: 2021, text: 'Completed a senior internship with GMF Media Group as a Full Stack team member', },
+  { year: 2021, text: 'Graduated from NJIT with a Bachelors in Information systems', },
+  { year: 2022, text: 'Started freelance work on GodAndFire.com', },
 ];
