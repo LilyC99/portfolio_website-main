@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Chat Application',
     description: "A chat application to send messages in real time between 2 users.",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['HTML', 'PHP', 'JavaScript'],
     source: 'https://web.njit.edu/~lbc6/A5/home.html',
     visit: 'https://web.njit.edu/~lbc6/A5/home.html',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'How to play League of Legends',
     description: "HowTo:LoL is my first ever website that I made in the Fall of 2018.",
-    image: '/images/4.jpg',
+    image: '/images/4.png',
     tags: ['HTML', 'CSS', 'Bootstrap'],
     source: 'https://web.njit.edu/~lbc6/HowToLoL/index.html',
     visit: 'https://web.njit.edu/~lbc6/HowToLoL/index.html',
