@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['WordPress'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/LilyC99/RetailRabbitHole',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['HTML', 'PHP', 'JavaScript'],
     source: 'https://web.njit.edu/~lbc6/A4/hrr.html',
-    visit: 'https://web.njit.edu/~lbc6/A4/hrr.html',
+    visit: 'https://github.com/LilyC99/RealEstateAgents',
     id: 1,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/4.png',
     tags: ['HTML', 'CSS', 'Bootstrap'],
     source: 'https://web.njit.edu/~lbc6/HowToLoL/index.html',
-    visit: 'https://web.njit.edu/~lbc6/HowToLoL/index.html',
+    visit: 'https://github.com/LilyC99/HowToLoL',
     id: 3,
   },
 ];
