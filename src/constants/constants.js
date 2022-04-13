@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Chat Application',
-    description: "A chat application to send messages in real time between 2 users.",
+    title: 'GMF Media Group LLC',
+    description: "A prototype eCommerce fundraising website I completed with 6 other students during my internship. I worked on primarily back-end and populating product pages as well as homepage design.",
       image: '/images/3.png',
-      tags: ['HTML', 'PHP', 'JavaScript'],
-    source: 'https://web.njit.edu/~lbc6/A5/home.html',
-    visit: 'https://web.njit.edu/~lbc6/A5/home.html',
+      tags: ['React.js', 'CSS', 'SQL', 'Python', 'Heroku',],
+    source: 'https://njit-ecommerce.herokuapp.com/',
+    visit: 'https://github.com/Ecommerce-CS490',
     id: 2,
   },
   {
