@@ -19,9 +19,7 @@ const Projects = () => (
             </TitleContent>
             <CardInfo className="card-info">{p.description}</CardInfo>
             <div>
-            {"\n"}
-            {"\n"}
-              <TitleContent>Technologies used</TitleContent>
+              <TitleContent></TitleContent>
               <TagList>
                 {p.tags.map((t, i) => {
                   return <Tag key={i}>{t}</Tag>;
