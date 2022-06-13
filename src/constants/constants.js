@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Retail Rabbit Hole',
-    description: "WordPress eCommerce website.",
+    title: 'God and Fire',
+    description: "WordPress community for first responders.",
       image: '/images/1.png',
       tags: ['WordPress'],
     source: 'https://google.com',
-    visit: 'https://github.com/LilyC99/RetailRabbitHole',
+    visit: 'GodAndFire.com',
     id: 0,
   },
   {
